@@ -1,0 +1,15 @@
+{
+  "name": "subscription-talk-rabbit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Wandeson Cunha <wandeson.cunha@passeidireto.com>",
+  "license": "ISC",
+  "dependencies": {
+    "amqp-connection-manager": "^4.1.14",
+    "amqplib": "^0.10.3"
+  }
+}
